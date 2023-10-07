@@ -5,16 +5,31 @@
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
+<<<<<<< HEAD
     "@mui/icons-material": "^5.14.12",
+=======
+>>>>>>> 0f83aa38c9a28ff9831fb16bea17d4b3c452d91a
     "@mui/material": "^5.14.12",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+<<<<<<< HEAD
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-material-ui-carousel": "^3.4.2",
     "react-scripts": "5.0.1",
+=======
+    "firebase": "^10.4.0",
+    "react": "^17.0.0 || ^18.0.0",
+    "react-dom": "^17.0.0 || ^18.0.0",
+    "react-router-dom": "^6.16.0",
+    "react-scripts": "^5.0.1",
+>>>>>>> 0f83aa38c9a28ff9831fb16bea17d4b3c452d91a
     "web-vitals": "^2.1.4"
+  },
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0",
+    "react-dom": "^17.0.0 || ^18.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -40,8 +55,14 @@
       "last 1 safari version"
     ]
   },
+<<<<<<< HEAD
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "author": "",
   "license": "ISC"
+=======
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+>>>>>>> 0f83aa38c9a28ff9831fb16bea17d4b3c452d91a
 }
