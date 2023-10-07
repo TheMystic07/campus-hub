@@ -14,7 +14,6 @@ function Landing() {
   return (
     <>
         {/* Import Navbar */}
-        LANDING PAGE
           <Carousel
               className="carasousel"
               autoPlay={true}
